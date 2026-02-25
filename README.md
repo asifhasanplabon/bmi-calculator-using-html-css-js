@@ -29,11 +29,6 @@ BMI = Weight (kg) / (Height (m) × Height (m))
 
 ---
 
-## 📂 Project Structure
-
-
----
-
 ## 💻 How to Run Locally
 
 1. Clone the repository: https://github.com/asifhasanplabon/bmi-calculator-using-html-css-js.git
@@ -45,4 +40,10 @@ BMI = Weight (kg) / (Height (m) × Height (m))
 ## 👨‍💻 Author
 
 **Asif Hasan Plabon**
-Aspiring Full Stack Developer
+**Aspiring Full Stack Developer**
+
+
+
+
+
+
