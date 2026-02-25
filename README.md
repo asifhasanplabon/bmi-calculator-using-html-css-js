@@ -40,7 +40,8 @@ BMI = Weight (kg) / (Height (m) × Height (m))
 ## 👨‍💻 Author
 
 **Asif Hasan Plabon**
-**Aspiring Full Stack Developer**
+
+Aspiring Full Stack Developer
 
 
 
